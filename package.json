@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "main": "server.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.1",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.2",
+    "express": "^4.13.4",
+    "express-cors": "0.0.3",
+    "express-jwt": "^5.1.0",
+    "express-unless": "^0.3.0",
+    "fs-extra": "^0.30.0",
+    "jsonwebtoken": "^6.2.0",
+    "knex": "^0.11.3",
+    "morgan": "^1.7.0",
+    "mysql": "^2.10.2",
+    "path": "^0.12.7",
+    "redis": "^2.6.0-2",
+    "serve-favicon": "^2.3.0",
+    "uuid": "^2.0.3"
+  }
+}
